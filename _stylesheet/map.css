@@ -1,0 +1,22 @@
+map
+{
+	width: 100%;
+	float: left;
+	margin-bottom: 4%;
+}
+
+
+#add_map
+{
+	width:20%;
+	height:600px;
+	float: left;
+}
+
+#googleMap
+{
+	width:75%;
+	height:600px;
+	border-radius: 12px;
+	float: right;
+}
